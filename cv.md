@@ -7,7 +7,7 @@
 
 **Skills**: Swift, OOP, MVC, MVVM, Alamofire, Firebase, SnapKit, UIKit, CoreData, XCode, PostMan, MapKit, Foundation and more.
 
-**My git**: https://github.com/Marinushka
+**My git**: [GitHub](https://github.com/Marinushka)
 
 **Experience**: Summer Internship in KeepSolid(c++), freelance project Dominanta.
 
